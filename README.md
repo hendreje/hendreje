@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hendreje
+- 👋 Hi, I’m Jesse Hendren-Mills
 - 👀 I’m interested in R Studio, SQL, and learning new programming language to help solve economic problems
-- 🌱 I’m currently learning advanced R Studio and SQL 
+- 🌱 I’m currently learning advanced R Studio, Python, and SQL 
 - 💞️ I’m looking to collaborate on how to create robust code bases and expand my data science knowledge 
 - 📫 How to reach me at my email: jessehendren@gmail.com
 
